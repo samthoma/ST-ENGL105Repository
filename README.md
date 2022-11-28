@@ -5,4 +5,4 @@
 ##### The data attached may be used in anyway desired.
 
 ## Chart provided with finished subset data:
-![obesitychart](obesity_subset_chart.png)
+![obesitychart](obesity_subset_chart_final.png)
